@@ -25,7 +25,7 @@
   
 #### 사용기술
 + ViewPager2 & Tablayout
-  + ViewPager2와 tablayout으 통해 3개의 탭(fragment)을 구현하였습니다. viewpager2를 각각의 fragment와 연동하여 탭을 클릭했을 때뿐만 아니라 스와이프를 통해서도 탭 전환이 가능하게 했습니다.
+  + ViewPager2와 tablayout을 통해 3개의 탭(fragment)을 구현하였습니다. viewpager2를 각각의 fragment와 연동하여 탭을 클릭했을 때뿐만 아니라 스와이프를 통해서도 탭 전환이 가능하게 했습니다.
 + Listview
   + Adapter를 이용해 데이터와 각 리스트(연락처)의 view를 연결해 listview를 구현했습니다.
 + Intent(subactivity)
